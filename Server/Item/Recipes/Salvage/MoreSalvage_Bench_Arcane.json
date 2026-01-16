@@ -1,0 +1,33 @@
+{
+  "Input": [
+    {
+      "ItemId": "Bench_Arcane",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Rubble_Stone",
+    "Quantity": 4
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4,
+  "Output": [
+    {
+      "ItemId": "Ingredient_Void_Essence",
+      "Quantity": 6
+    },
+    {
+      "ItemId": "Ore_Thorium",
+      "Quantity": 4
+    },
+    {
+      "ItemId": "Ingredient_Fabric_Scrap_Linen",
+      "Quantity": 5
+    }
+  ]
+}

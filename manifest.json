@@ -1,0 +1,20 @@
+{
+  "Group": "popcar2",
+  "Name": "SalvageMoreItems",
+  "Version": "1.0.0",
+  "Description": "Allows you to salvage more items using the Salvager's Workbench!",
+  "Authors": [
+    {
+      "Name": "popcar2",
+      "Email": "popcar@protonmail.com",
+      "Url": "https://github.com/popcar2/"
+    }
+  ],
+  "Website": "https://github.com/popcar2/",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

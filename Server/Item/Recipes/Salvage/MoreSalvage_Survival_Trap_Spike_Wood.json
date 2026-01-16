@@ -1,0 +1,25 @@
+{
+  "Input": [
+    {
+      "ItemId": "Survival_Trap_Spike_Wood",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Stick",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4,
+  "Output": [
+    {
+      "ItemId": "Ingredient_Stick",
+      "Quantity": 1
+    }
+  ]
+}

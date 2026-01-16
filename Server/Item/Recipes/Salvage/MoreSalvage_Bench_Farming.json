@@ -1,0 +1,29 @@
+{
+  "Input": [
+    {
+      "ItemId": "Bench_Farming",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Stick",
+    "Quantity": 6
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4,
+  "Output": [
+    {
+      "ItemId": "Ingredient_Stick",
+      "Quantity": 6
+    },
+    {
+      "ItemId": "Ingredient_Fibre",
+      "Quantity": 3
+    }
+  ]
+}

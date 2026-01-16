@@ -1,0 +1,33 @@
+{
+  "Input": [
+    {
+      "ItemId": "Bench_Armour",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Rubble_Stone",
+    "Quantity": 3
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4,
+  "Output": [
+    {
+      "ItemId": "Rubble_Stone",
+      "Quantity": 3
+    },
+    {
+      "ItemId": "Ore_Copper",
+      "Quantity": 1
+    },
+    {
+      "ItemId": "Ingredient_Stick",
+      "Quantity": 4
+    }
+  ]
+}
